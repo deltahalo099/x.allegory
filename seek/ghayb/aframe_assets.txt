@@ -1,0 +1,14 @@
+full lib
+
+<a-asset-item id="library-obj" src="https://ucarecdn.com/c8f8684f-b513-4364-8e6e-bd3279672ea6/"></a-asset-item>
+<a-asset-item id="library-mtl" src="https://ucarecdn.com/98dece70-be99-453b-bea9-dd6ef6ee2758/"></a-asset-item>
+
+platform
+<a-asset-item id="library-obj" src="https://ucarecdn.com/e5cb5260-0799-4a23-8252-c1f4d621cf11/"></a-asset-item>
+<a-asset-item id="library-mtl" src="https://ucarecdn.com/7d0162da-4555-4095-b06e-b617324f8ad8/"></a-asset-item>
+
+lib minimal
+<a-asset-item id="library-obj" src="https://ucarecdn.com/97f45b01-7253-46e9-8cf4-fc89c2839633/"></a-asset-item>
+<a-asset-item id="library-mtl" src="https://ucarecdn.com/1637ede3-3676-4dce-8c4d-85de860ecfe1/"></a-asset-item>
+
+lib color

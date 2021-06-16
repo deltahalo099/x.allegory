@@ -1,0 +1,24 @@
+@charset "utf-8";
+body {
+	background-color: #202225;
+	font: 17px Inconsolata, Monaco, monospace;
+}
+
+
+
+#content {
+	padding-top: 100px;
+	font-family: courier new;
+	color: #ffffff;
+	text-align: center;
+}
+
+#links {
+	font-size: 20px;
+
+}
+
+a {
+  color: #44edaf;
+  text-decoration: none;
+}
